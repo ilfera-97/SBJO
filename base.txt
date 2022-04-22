@@ -1,0 +1,9 @@
+Liste des choristes1,Anatole,1997-05-27,Suprême S. Ev.,Maître de choeur
+2,Salomon,1997-05-27,Vénérable Seig. Ev.,Surveillant G
+3,Loïc,1996-07-12,Ass. L,Surveillant A
+4,Omer,1996-06-11,Ass. L,Secrétaire
+5,Olivier,1996-03-19,Ass. L,Conseiller
+6,Hurmine,1997-01-30,Dehoto,Choriste
+7,Dorcas Esther,1995-08-11,Dehoto,Choristes
+9,Gloria,1995-07-11,Fidèle,Choristes
+10,Myklo,1998-10-29,Fidèle,Choristes
